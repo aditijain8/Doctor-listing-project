@@ -1,16 +1,46 @@
-<<<<<<< HEAD
-# Doctor-listing-project
-=======
-# React + Vite
+# 🩺 Doctor Listing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Task Overview
 
-Currently, two official plugins are available:
+This project is a **doctor listing web page** that allows users to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search doctors by name using an **autocomplete search bar**.
+- Filter doctors based on **consultation type**, **specialties**, and **sort options**.
+- View a dynamically updated list of doctors using data from a **public API**.
 
-## Expanding the ESLint configuration
+> 📝 Note: All functionality works entirely on the **client side**, after the initial API fetch.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 045f85b (Initial Setup Complete)
+---
+
+## 🌐 Live Demo
+
+Access the deployed project here:  
+🔗 [https://doctor-listing-drab.vercel.app/](https://doctor-listing-drab.vercel.app/)
+
+---
+
+## 🛠️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aditijain8/Doctor-listing-project.git
+
+
+   Navigate into the project folder:
+
+bash
+Copy
+Edit
+cd Doctor-listing-project
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the project locally:
+
+bash
+Copy
+Edit
+npm run dev
