@@ -25,22 +25,3 @@ Access the deployed project here:
    ```bash
    git clone https://github.com/aditijain8/Doctor-listing-project.git
 
-
-   Navigate into the project folder:
-
-bash
-Copy
-Edit
-cd Doctor-listing-project
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Run the project locally:
-
-bash
-Copy
-Edit
-npm run dev
